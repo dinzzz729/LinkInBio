@@ -19,7 +19,7 @@ export const styleData = {
 };
 
 // Can be a URL, a full file name with extension, or just a file name without extension
-const profileImagePath = "src/assets/profileImage/IMG_20241125_061504~2.jpg";
+const profileImagePath = "IMG_20241125_061504~2";
 
 export const linksData = {
   logo: "About me",
