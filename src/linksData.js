@@ -43,7 +43,7 @@ export const linksData = {
       linkBtn: "Filled",
     },
     {
-      linkText: "Discord coming soon",
+      linkText: "Discord",
       linkUrl: "#",
       linkBtn: "Outline",
     },
