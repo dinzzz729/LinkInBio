@@ -25,7 +25,7 @@ export const linksData = {
   logo: "About me",
   profileImage: resolveProfileImagePath(profileImagePath),
   name: "Zuperdinzzz",
-  designation: "Gamer",
+  designation: "Halo prend 🤝",
   links: [
     {
       linkText: "Youtube",
