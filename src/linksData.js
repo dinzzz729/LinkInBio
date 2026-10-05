@@ -24,8 +24,8 @@ const profileImagePath = "";
 export const linksData = {
   logo: "Lnk",
   profileImage: resolveProfileImagePath(profileImagePath),
-  name: "Lina Doe",
-  designation: "Designer & Web Developer",
+  name: "Zuperdinzzz",
+  designation: "Gamer",
   links: [
     {
       linkText: "Home",
