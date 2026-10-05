@@ -43,7 +43,7 @@ export const linksData = {
       linkBtn: "Outline",
     },
     {
-      linkText: "Thank you 🤝",
+      linkText: "Discord",
       linkUrl: "#",
       linkBtn: "Filled",
     },
