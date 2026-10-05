@@ -48,8 +48,8 @@ export const linksData = {
       linkBtn: "Filled",
     },
     {
-      linkText: "Ko-fi",
-      linkUrl: "#",
+      linkText: "Saweria",
+      linkUrl: "https://saweria.co/zuperdinzzz",
       linkBtn: "Outline",
     },
   ],
