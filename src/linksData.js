@@ -30,17 +30,17 @@ export const linksData = {
     {
       linkText: "Youtube",
       linkUrl: "https://youtube.com/@wongdagul",
-      linkBtn: "Outline",
+      linkBtn: "Filled",
     },
     {
       linkText: "Instagram",
       linkUrl: "https://www.instagram.com/zuperdinzzz.3",
-      linkBtn: "Outline",
+      linkBtn: "Filled",
     },
     {
       linkText: "Tiktok",
       linkUrl: "https://www.tiktok.com/@zuperdinzzz.3",
-      linkBtn: "Outline",
+      linkBtn: "Filled",
     },
     {
       linkText: "Discord",
