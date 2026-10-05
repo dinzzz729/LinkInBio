@@ -28,22 +28,22 @@ export const linksData = {
   designation: "Gamer",
   links: [
     {
-      linkText: "Home",
+      linkText: "Youtube",
       linkUrl: "#",
       linkBtn: "Outline",
     },
     {
-      linkText: "About",
+      linkText: "Instagram",
       linkUrl: "#",
       linkBtn: "Outline",
     },
     {
-      linkText: "Services",
+      linkText: "Tiktok",
       linkUrl: "#",
       linkBtn: "Outline",
     },
     {
-      linkText: "Contact",
+      linkText: "Discord",
       linkUrl: "#",
       linkBtn: "Filled",
     },
