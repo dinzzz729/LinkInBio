@@ -22,7 +22,7 @@ export const styleData = {
 const profileImagePath = "";
 
 export const linksData = {
-  logo: "Lnk",
+  logo: "About me",
   profileImage: resolveProfileImagePath(profileImagePath),
   name: "Zuperdinzzz",
   designation: "Gamer",
