@@ -51,6 +51,11 @@ export const linksData = {
       linkText: "Saweria",
       linkUrl: "https://saweria.co/zuperdinzzz",
       linkBtn: "Outline",
+    },
+    {
+      linkText: "Bio site",
+      linkUrl: "https://bio.site/dinzzz729",
+      linkBtn: "Outline",
     },*/
   ],
 };
