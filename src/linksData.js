@@ -29,7 +29,7 @@ export const linksData = {
   links: [
     {
       linkText: "Youtube",
-      linkUrl: "https://youtube.com/@wongdagul",
+      linkUrl: "https://youtube.com/@salafudin7292",
       linkBtn: "Filled",
     },
     {
