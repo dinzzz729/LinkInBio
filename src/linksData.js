@@ -47,10 +47,10 @@ export const linksData = {
       linkUrl: "#",
       linkBtn: "Filled",
     },
-    {
+    /*{
       linkText: "Saweria",
       linkUrl: "https://saweria.co/zuperdinzzz",
       linkBtn: "Outline",
-    },
+    },*/
   ],
 };
