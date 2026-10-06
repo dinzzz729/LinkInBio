@@ -45,7 +45,7 @@ export const linksData = {
     {
       linkText: "Discord",
       linkUrl: "#",
-      linkBtn: "Filled",
+      linkBtn: "Outline",
     },
     /*{
       linkText: "Saweria",
